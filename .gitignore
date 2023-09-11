@@ -1,0 +1,3 @@
+*.o
+pipex
+libft/libft.a
